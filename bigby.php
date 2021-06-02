@@ -181,5 +181,5 @@ class Bgb extends BgbConfigurable {
     echo BgbUtils::getStacktrace($e);
     die();
   }  
-
+ // end
 }
